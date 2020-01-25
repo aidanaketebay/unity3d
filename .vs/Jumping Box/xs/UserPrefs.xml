@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{E4D74472-AB8B-A093-906F-249286ACED8A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Intro/Star_animation.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Intro/Buttons.cs" Line="43" Column="47" />
+      <File FileName="Assets/Scripts/Intro/ScrollObjects.cs" Line="14" Column="6" />
+      <File FileName="Assets/Scripts/Intro/clickDetector.cs" Line="48" Column="42" />
+      <File FileName="Assets/Scripts/Intro/TextFade.cs" Line="26" Column="1" />
+      <File FileName="Assets/Scripts/Intro/StarAppears.cs" Line="15" Column="24" />
+      <File FileName="Assets/Scripts/Intro/Star_animation.cs" Line="23" Column="2" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="30" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
